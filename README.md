@@ -7,6 +7,7 @@ This is a basic a repository which contains a simple application of `machine lea
 This repository is designed to be accessible to beginners in the field of machine learning and data analysis. It provides code examples and explanations to help users understand and use these basic techniques in their own projects.
 
 In this repostrey I mainly used the `Python` programming language and `Scikit-learn` (a free Python library for machine learning)
+
 ---
 ![Texte alternatif de l'image](Main/res/py_SL.png)
 
