@@ -1,5 +1,5 @@
 # Machine-Learning-basics
-This is a basic a repository which contains a simple application of `machine learning` algorithms such as simple and multiple linear regression, classification algorithms and (logistic regression, decision tree, random forest, Naive Bayes, KNN, Artificial Neural Networks, SVM .....) and clustering (K-means , Hierarchical Clustering ...)also some `statistical methods` for `data analysis` like Composite Principal Analysis (PCA), Correspondence Analysis (CA) ...
+This is a basic  repository which contains a simple application of `machine learning` algorithms such as simple and multiple linear regression, classification algorithms and (logistic regression, decision tree, random forest, Naive Bayes, KNN, Artificial Neural Networks, SVM .....) and clustering (K-means , Hierarchical Clustering ...)also some `statistical methods` for `data analysis` like Composite Principal Analysis (PCA), Correspondence Analysis (CA) ...
 
 ---
 ![Texte alternatif de l'image](Main/assets/ML.png)
