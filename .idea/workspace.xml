@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  <component name="ChangeListManager">
+    <list default="true" id="1c3239f2-113f-43d8-a1df-1c86ffda349b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Classification/LogisticRegression/Logistic_Regression .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Descriptive Methods (Unsupervised Learning)/Clustering/Clustering_K-means.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Descriptive Methods (Unsupervised Learning)/Clustering/Clustering_K-means.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Descriptive Methods (Unsupervised Learning)/Clustering/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Descriptive Methods (Unsupervised Learning)/Clustering/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Descriptive Methods (Unsupervised Learning)/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Descriptive Methods (Unsupervised Learning)/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Classification/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Classification/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Regression/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Regression/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Regression/Regression lineaire/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Regression/LinearRegression/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Regression/Regression lineaire/Régression_linéaire simple .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Regression/LinearRegression/simple linearRegression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Regression/Regression lineaire/dataset.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Regression/LinearRegression/dataset.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Regression/Regression multiple/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Regression/multiplRegression/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Regression/Regression multiple/Régression multiple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Regression/multiplRegression/multiple Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Regression/Regression multiple/dataset2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Regression/multiplRegression/dataset2.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Regression/Regression quadratique(Polynomiale)/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Regression/polynomialRegression/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Regression/Regression quadratique(Polynomiale)/Régression --  linéaire vs polynomiale  -- .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Regression/polynomialRegression/Regression --  linear vs polynomial  -- .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/Predictive methods (Supervised learning)/Regression/Regression quadratique(Polynomiale)/dataset.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/Predictive methods (Supervised learning)/Regression/polynomialRegression/dataset.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Machine Learning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/assets/ML.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/ML.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/assets/py_SL.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/py_SL.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/statistical methods/Principal Component Analysis (PCA)/ACP (Analyse en composantes principales).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical methods/Principal Component Analysis (PCA)/ACP (Analyse en composantes principales).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/statistical methods/Principal Component Analysis (PCA)/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/statistical methods/Principal Component Analysis (PCA)/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/statistical methods/Principal Component Analysis (PCA)/dataset_acp.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/statistical methods/Principal Component Analysis (PCA)/dataset_acp.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/statistical methods/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/statistical methods/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2U6pn0yrDaUJEWpHeaenxKdQs5s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
   }
-}</component>
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c3239f2-113f-43d8-a1df-1c86ffda349b" name="Changes" comment="" />
+      <created>1692270052117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692270052117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
